@@ -1,2 +1,10 @@
 package-lock.json
 node_modules/
+
+git add -A;
+git commit -m 'adicionando arquivos do projeto';
+git push origin master;
+
+git add -A;
+git commit -m 'Waves Keeper integração de autenticação';
+git push origin master;
